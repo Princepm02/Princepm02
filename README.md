@@ -50,7 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Princepm02/Princepm02/output/snake.svg" alt="Snake animation" />
 
 ###
 
