@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Prince Mishra</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princepm02&label=Profile%20views&color=0e75b6&style=flat" alt="princepm02" /> </p>
 
+- 🌱 I’m currently learning **Java, Python, Front End Development**
 ###
 
 <div align="center">
