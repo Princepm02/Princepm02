@@ -2,7 +2,9 @@
 <h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princepm02&label=Profile%20views&color=0e75b6&style=flat" alt="princepm02" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, Front End Development**
+- I'm a BTech CSE fresher with a passion for software development. I'm proficient in **C/C++, Java and Python(Basic)**.
+- I'm looking for an internship or entry-level position where I can learn and grow as a software developer. I'm excited to use my skills to make a positive impact on the world.
+- 🌱 I’m currently learning **Python, Front End Full Stack Development and Java Full Stack Development**
 ###
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
