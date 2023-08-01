@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋! My name is Prince Mishra</h2>
+<h2 align="center">Hi 👋! My name is Prince Mishra</h2>
+<h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princepm02&label=Profile%20views&color=0e75b6&style=flat" alt="princepm02" /> </p>
 
 - 🌱 I’m currently learning **Java, Python, Front End Development**
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Princepm02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Princepm02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
