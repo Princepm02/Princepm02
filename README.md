@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  />
+  <img height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  />
 </div>
 
 ###
@@ -70,7 +70,7 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princepm02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princepm02&show_icons=true&locale=en&layout=compact&card_width=340&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princepm02&show_icons=true&locale=en&layout=compact&card_width=340&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Princepm02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
