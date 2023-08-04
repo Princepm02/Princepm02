@@ -3,7 +3,7 @@
 <!-- <img height="500" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"  /> -->
 <!--   <img height="300" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  /> -->
   
-  <img height="500" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
+  <img height="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
  
 </div>
 
@@ -32,8 +32,8 @@
 ###
 
 - I'm a BTech CSE fresher with a passion for software development. I'm proficient in C/C++, Java and Python(Basic).
-- -I'm looking for an internship or entry-level position where I can learn and grow as a software developer. I'm excited to use my skills to make a positive impact on the world.
-- -🌱 I’m currently learning Python, Front End Full Stack Development and Java Full Stack Development</p>
+- I'm looking for an internship or entry-level position where I can learn and grow as a software developer. I'm excited to use my skills to make a positive impact on the world.
+- 🌱 I’m currently learning Python, Front End Full Stack Development and Java Full Stack Development</p>
 
 ###
 
@@ -75,8 +75,9 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princepm02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princepm02&show_icons=true&locale=en&layout=compact&card_width=340&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Princepm02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princepm02&show_icons=true&locale=en&layout=compact&card_width=450&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
+  <br/><br/><br/>
+  <img align="Center" src="https://streak-stats.demolab.com?user=Princepm02&locale=en&mode=daily&theme=dark&card_width=450&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
