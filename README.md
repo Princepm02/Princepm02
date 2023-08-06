@@ -15,13 +15,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Princepm02.Princepm02&"  />
-</div>
-
-###
 
 <h1 align="center">Hi 👋! My name is Prince Mishra</h1>
 
