@@ -56,9 +56,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
