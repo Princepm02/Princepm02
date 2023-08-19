@@ -89,7 +89,7 @@
 <br/><br/>
 
 <!-- Activity Graph -->
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princepm02&theme=react-dark&hide_border=false&bg_color=101010&line=fb8c00&color=cfcccc&point=24292e&area=true" alt="Activity Graph" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princepm02&theme=react-dark&hide_border=false&bg_color=101010&line=fb8c00&color=cfcccc&point=ffffff&area=true" alt="Activity Graph" />
 
 
 ###
