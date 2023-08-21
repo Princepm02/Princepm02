@@ -157,15 +157,15 @@
   <!--   <img align="Center" src="https://streak-stats.demolab.com?user=Princepm02&locale=en&mode=daily&theme=dark&card_width=450&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div> -->
  <!-- Top Languages Graph -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepm02&layout=compact&langs_count=12&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="languages graph" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepm02&layout=compact&langs_count=12&count_private=true&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="languages graph" />
 <br/><br/>
 
 <!-- Streak Graph -->
-<img align="center" src="https://streak-stats.demolab.com?user=Princepm02&layout=compact&border_radius=5&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="streak graph" />
+<img align="center" src="https://streak-stats.demolab.com?user=Princepm02&layout=compact&count_private=true&border_radius=5&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="streak graph" />
 <br/><br/>
 
 <!-- Activity Graph -->
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princepm02&theme=react-dark&hide_border=false&bg_color=101010&line=fb8c00&color=cfcccc&point=ffffff&area=true" alt="Activity Graph" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princepm02&theme=react-dark&hide_border=false&count_private=true&bg_color=101010&line=fb8c00&color=cfcccc&point=ffffff&area=true" alt="Activity Graph" />
 
 
 ###
