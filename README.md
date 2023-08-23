@@ -111,7 +111,8 @@
         Bootstrap
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br>
+<!--         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br> -->
+        <img src="https://miro.medium.com/v2/resize:fit:828/0*EitUXT-pqbaQSCTt.gif" height="40" alt="react logo" /><br>
         React
       </td>
       <td align="center">
