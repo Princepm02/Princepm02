@@ -120,7 +120,7 @@
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /><br>
-        Visual Studio Code
+        VS Code
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo" /><br>
