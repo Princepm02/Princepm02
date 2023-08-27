@@ -162,6 +162,10 @@
   <!--   <img align="Center" src="https://streak-stats.demolab.com?user=Princepm02&locale=en&mode=daily&theme=dark&card_width=450&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div> -->
 
+
+<!-- GitHub Stats -->
+<!-- ![Prince GitHub Stats](https://github-readme-stats.vercel.app/api?username=princepm02&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide=contribs,issues,prs)  -->
+
  <!-- Top Languages Graph -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepm02&layout=compact&langs_count=12&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="languages graph" />
 <br/><br/>
