@@ -167,11 +167,11 @@
 <!-- ![Prince GitHub Stats](https://github-readme-stats.vercel.app/api?username=princepm02&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide=contribs,issues,prs)  -->
 
  <!-- Top Languages Graph -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepm02&layout=compact&langs_count=12&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="languages graph" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepm02&layout=compact&langs_count=12&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="languages graph" />
 <br/><br/>
 
 <!-- Streak Graph -->
-<img align="center" src="https://streak-stats.demolab.com?user=Princepm02&layout=compact&count_private=true&border_radius=5&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="streak graph" />
+<img align="center" src="https://streak-stats.demolab.com?user=princepm02&layout=compact&count_private=true&border_radius=5&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" width="500" alt="streak graph" />
 <br/><br/>
 
 <!-- Activity Graph -->
