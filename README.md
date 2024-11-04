@@ -136,8 +136,8 @@
         MySQL
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /><br>
-        GitHub
+        <img src="https://github.com/user-attachments/assets/16664d45-2375-49d9-88f7-1b9e9e3d423b" height="40" alt="android studio logo" /><br>
+        Android Studio
       </td>
     </tr>
   </table>
