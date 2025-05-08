@@ -3,8 +3,8 @@
 <!-- <img height="500" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"  /> -->
 <!--   <img height="300" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  /> -->
   
-  <img height="200" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />&nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github.com/user-attachments/assets/27c47f84-f765-40cb-b705-55d7c1e660b4"  />
+  <img height="250" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />&nbsp;&nbsp;&nbsp;
+  <img height="250" src="https://github.com/user-attachments/assets/27c47f84-f765-40cb-b705-55d7c1e660b4"  />
 </div>
 
 ###
